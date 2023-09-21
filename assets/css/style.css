@@ -1,0 +1,21 @@
+img{
+    width: 150px;
+    height: 100px;
+}
+
+.icon{
+    width: 400px;
+    height: 400px;
+    color: white;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.icon i{
+    font-size: 70px;
+    cursor: pointer;
+}
